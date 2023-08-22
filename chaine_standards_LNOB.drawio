@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T14:35:48.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.8" etag="J3NyCeRgK5Dyhpdw546q" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T14:46:28.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="C_CC0lkSWrr4tcCu617l" version="21.6.8" type="github">
   <diagram name="Page-1" id="BfYUBqvwNHG4M3h-Vm-o">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ABJSbn4SxeNcxDJF9tLN-5" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height:normal&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.0pt;font-family:&amp;quot;Daytona Light&amp;quot;,sans-serif;mso-ansi-language:&lt;br/&gt;EN-US&quot;&gt;standard post-evaluation of universality&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ABJSbn4SxeNcxDJF9tLN-6" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height:normal&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.0pt;font-family:&amp;quot;Daytona Light&amp;quot;,sans-serif;mso-ansi-language:&lt;br/&gt;EN-US&quot;&gt;standard ranking system of implementation, cause, and effect &lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ABJSbn4SxeNcxDJF9tLN-7" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height:normal&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.0pt;font-family:&amp;quot;Daytona Light&amp;quot;,sans-serif;mso-ansi-language:&lt;br/&gt;EN-US&quot;&gt;standard universality documentation for BIM &lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ABJSbn4SxeNcxDJF9tLN-8" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Daytona Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;standard way to calculate the universality of buildings and infrastructure&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="430" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ABJSbn4SxeNcxDJF9tLN-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.286;entryY=1.05;entryDx=0;entryDy=0;exitX=0.562;exitY=-0.067;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="422.98" as="sourcePoint" />
+            <mxPoint x="542.04" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ABJSbn4SxeNcxDJF9tLN-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="400" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ABJSbn4SxeNcxDJF9tLN-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.286;entryY=1.05;entryDx=0;entryDy=0;exitX=0.562;exitY=-0.067;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="313" as="sourcePoint" />
+            <mxPoint x="362" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ABJSbn4SxeNcxDJF9tLN-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.629;exitY=1;exitDx=0;exitDy=0;entryX=0.371;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="ABJSbn4SxeNcxDJF9tLN-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="380" as="sourcePoint" />
+            <mxPoint x="365" y="426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ABJSbn4SxeNcxDJF9tLN-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.629;exitY=1;exitDx=0;exitDy=0;entryX=0.371;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="260" as="sourcePoint" />
+            <mxPoint x="547" y="316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ABJSbn4SxeNcxDJF9tLN-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
